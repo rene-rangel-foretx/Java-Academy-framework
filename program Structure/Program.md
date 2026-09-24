@@ -16,7 +16,23 @@ At the end of the program, the new joiner should be able to:
 * Build and explain a production-style Java/Spring application.
 
 ---
+### Java Backend Associate Trained
 
+Owner: gerardo.garza.tamez
+
+Dependencies: None
+
+Criterias:
+
+Option 1: Complete Pluralsight Trainings: https://app.pluralsight.com/channels/details/f49ea346-8229-4dc2-bb49-52773a6d063b
+
+Option 2: Complete Udacity Trainings: 
+
+https://www.udacity.com/org/accenture-all-access/course/java-fundamentals--cd0282
+
+https://www.udacity.com/org/accenture-all-access/course/java-developer-nanodegree--nd035
+
+---
 # 1. Program Structure
 
 I recommend a **12-week program**.
